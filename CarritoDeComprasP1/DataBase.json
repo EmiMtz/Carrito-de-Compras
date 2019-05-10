@@ -1,0 +1,5 @@
+{
+    "resultCount":50,
+    "results": [{"name": "Pelota", "image": "pelota", "detail": "Roja, Azul, Amarilla", "description": "Ideal para la diversión", "price": 50},{"name": "Sandalias", "image": "sandalias", "detail": "Arcoiris", "description": "Para usar en la arena", "price": 35},{"name": "Salvavidas", "image": "rosca", "detail": "Rosquilla", "description": "No pierdas las oportunidad de verte genial", "price": 15}, {"name": "Set de playa", "image": "cubeta", "detail": "Palas y rastrillos", "description": "Todo el set para hacer castillos geniales", "price": 20}]
+
+}
